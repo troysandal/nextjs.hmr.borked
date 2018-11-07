@@ -1,5 +1,5 @@
 # nextjs.next
-Illustrates how to next.js HMR won't work when the project name has .next suffix, as this project does.
+Illustrates how next.js HMR breaks when the project name has the suffix `.next `, as this project does.
 
 ## Steps to Reproduce
 * Open a shell window and ...
